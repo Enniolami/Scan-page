@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue;
+    
+}
+img {
+    width: 250px;
+}
+.container {
+    width: 50%;
+    height: 50vh;
+    background-color: white;
+    margin: auto;
+    margin-top: 150px;
+    padding: 20px;
+    text-align: center;
+}
+h2 {
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: 500px;
+}
+p {
+    font-family: monospace;
+    font-size: 15px;
+    font-optical-sizing: 50px;
+    font-weight: 500px;
+}
+footer {
+    font-family: cursive;
+    font-size: 10px;
+    font-optical-sizing: 50px;
+    font-weight: 300px;
+}
