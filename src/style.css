@@ -6,9 +6,8 @@ img {
     width: 250px;
 }
 .container {
-    width: 50%;
-    height: 50vh;
-    background-color: white;
+    width: 350px;
+   background-color: white;
     margin: auto;
     margin-top: 150px;
     padding: 10px;
@@ -19,17 +18,17 @@ img {
 h2 {
     font-family: monospace;
     font-size: 15px;
-    font-weight: 500px;
+    font-weight: 500;
 }
 p {
     font-family: monospace;
     font-size: 15px;
     font-optical-sizing: 50px;
-    font-weight: 500px;
+    font-weight: 500;
 }
 footer {
     font-family: cursive;
     font-size: 10px;
-    font-optical-sizing: 50px;
-    font-weight: 300px;
+    font-optical-sizing: auto;
+    font-weight: 300;
 }
